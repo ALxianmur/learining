@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f28b7b47c0959972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f7a31cbd10504fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/PlantsVSZombies/得到的编程提升.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dfc6db0d890cb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/PlantsVSZombies/得到的编程提升.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceeaf7f553a7e6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/PlantsVSZombies/得到的编程提升.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f73d331dfc793aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/PlantsVSZombies/得到的编程提升.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a09d387cee4e7bb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/PlantsVSZombies/body/README-zh.md",
+                "file": "from import.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/PlantsVSZombies/body/README-zh.md",
+                "file": "from import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/PlantsVSZombies/body/README-zh.md",
+                "file": "from import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/PlantsVSZombies/body/README-zh.md"
+                "file": "from import.md"
               }
             }
           }
@@ -194,35 +133,38 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a09d387cee4e7bb2",
+  "active": "8966ba03d3392d19",
   "lastOpenFiles": [
-    "learning/README.md",
-    "python/PlantsVSZombies/body/README-zh.md",
-    "learning/hi",
-    "learning",
-    "python/PlantsVSZombies/body/README.md",
-    "main",
-    "README.md",
-    "from import.md",
-    "202308292318.md",
+    "python/PythonPlantsVsZombies/source/state/__pycache__/__init__.cpython-311.pyc",
+    "python/PythonPlantsVsZombies/source/state/__pycache__/screen.cpython-311.pyc",
+    "python/PythonPlantsVsZombies/source/state/__pycache__/mainmenu.cpython-311.pyc",
+    "python/PythonPlantsVsZombies/source/state/__pycache__/level.cpython-311.pyc",
+    "python/PythonPlantsVsZombies/source/data/map/level_5.json",
+    "python/PythonPlantsVsZombies/source/data/map/level_3.json",
+    "python/PythonPlantsVsZombies/source/data/map/level_4.json",
+    "python/PythonPlantsVsZombies/source/data/map/level_2.json",
+    "python/PythonPlantsVsZombies/source/data/map/level_1.json",
+    "python/PythonPlantsVsZombies/source/data/map/level_0.json",
+    "python/PythonPlantsVsZombies/source/data/entity/zombie.json",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_9.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_8.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_7.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_6.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_5.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_4.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_3.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_2.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_10.png",
+    "python/PythonPlantsVsZombies/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_1.png",
+    "python/PythonPlantsVsZombies/README.md",
+    "python/PythonPlantsVsZombies/README-zh.md",
     "python/PlantsVSZombies/得到的编程提升.md",
-    "python/PlantsVSZombies/body/main.py",
-    "python/PlantsVSZombies/body/source/state/__pycache__/__init__.cpython-311.pyc",
-    "python/PlantsVSZombies/body/source/state/__pycache__/mainmenu.cpython-311.pyc",
-    "python/PlantsVSZombies/body/source/state/__pycache__/screen.cpython-311.pyc",
-    "python/PlantsVSZombies/body/source/state/__pycache__/level.cpython-311.pyc",
-    "python/PlantsVSZombies/body/source/data/map/level_4.json",
-    "python/PlantsVSZombies/body/source/data/map/level_5.json",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_9.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_8.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_7.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_6.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_5.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_4.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_3.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_2.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_10.png",
-    "python/PlantsVSZombies/body/resources/graphics/Zombies/NormalZombie/ZombieLostHeadAttack/ZombieLostHeadAttack_1.png",
+    "from import.md",
+    "README.md",
+    "python/PlantsVSZombies/body/README-zh.md",
+    "learning/README.md",
+    "python/PlantsVSZombies/body/README.md",
+    "202308292318.md",
     "python/PlantsVSZombies.md",
     "未理解的/高数.md",
     "未理解的/未命名.md",
