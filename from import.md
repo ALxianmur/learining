@@ -13,7 +13,7 @@ from .package_name import module_name
 
 # 资源调用的顺序
 1. 当前文件夹 
-2. 系统环境
+2. 系统环境zpzp
 3. `python`安装的位置
 
 # 调用文件的类型
